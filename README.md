@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi! I'm Clint 
+##I'm a Software Developer From London 👋
 
 <!--
 **clint-mctribouy-koy/clint-mctribouy-koy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
