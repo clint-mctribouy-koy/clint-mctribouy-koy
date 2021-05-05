@@ -1,5 +1,8 @@
-## Hi! I'm Clint 
+## Hi! I'm Clint McTrbouy-Koy
 ## I'm a Software Developer From London 👋
+- 🌱 I’m currently learning 
+- 🔭 I’m currently working on 
+- 🌍 Goals: 
 
 <!--
 **clint-mctribouy-koy/clint-mctribouy-koy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
