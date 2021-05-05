@@ -1,4 +1,4 @@
-## 👋 Hi There! I'm Clint McTrbouy-Koy
+## Hi There! I'm Clint McTribouy-Koy 👋
 ## I'm a Software Developer From London 
 - 🌱 I’m currently learning 
 - 🔭 I’m currently working on 
