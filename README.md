@@ -1,9 +1,11 @@
-## Hi! I'm Clint McTrbouy-Koy
-## I'm a Software Developer From London 👋
+## 👋 Hi There! I'm Clint McTrbouy-Koy
+## I'm a Software Developer From London 
 - 🌱 I’m currently learning 
 - 🔭 I’m currently working on 
 - 🌍 Goals: 
 
+### Connect With Me 
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white 
 <!--
 **clint-mctribouy-koy/clint-mctribouy-koy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
